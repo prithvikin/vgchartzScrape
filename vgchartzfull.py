@@ -1,4 +1,3 @@
-#Prithvi Kinariwala, fork from 
 from bs4 import BeautifulSoup, element
 import urllib
 import pandas as pd

@@ -5,9 +5,9 @@ http://www.vgchartz.com/gamedb/
 The dataset is saved as vgsales.csv.
 
 You will need to have BeautifulSoup added.
-It can be installed by pip.
+It can be installed by pip in Command Prompt/Terminal.
 
-sudo pip install BeautifulSoup
+`Z:\>py -m pip install beautifulsoup4`
 
 Thanks to Chris Albon.
 http://chrisalbon.com/python/beautiful_soup_scrape_table.html
