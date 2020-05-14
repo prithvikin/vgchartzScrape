@@ -3,7 +3,7 @@ import urllib
 import pandas as pd
 import numpy as np
 
-pages = 19
+pages = 289
 rec_count = 0
 rank = []
 gname = []
